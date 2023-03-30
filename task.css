@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    display: flex;
+    background: linear-gradient(to top left,rgb(5, 245, 5),rgb(198, 198, 23));
+    align-items: center;
+    text-align: center;
+}
+h1{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
